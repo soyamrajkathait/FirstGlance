@@ -1,7 +1,6 @@
 🚀 FirstGlance – Smart Navigation & Path Optimization System
 
-Visit Site : https://first-glance-4857j40a3-akshitbisht321-4648s-projects.vercel.app/
-
+Visit Site :https://first-glance-fawn.vercel.app/
 
 A full-stack MERN application that provides intelligent route navigation using graph algorithms like **Dijkstra’s Algorithm** to compute the shortest path between locations.
 
@@ -68,7 +67,7 @@ firstglance/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/AkshitBisht02/FirstGlance.git
+git clone https://github.com/soyamrajkathait/FirstGlance
 cd FirstGlance
 
 
@@ -150,9 +149,9 @@ Feel free to fork this repo and submit a pull request.
 
 📬 Contact
 
-👤 Akshit Bisht
+👤 Soyam Raj Kathait
 
-GitHub: https://github.com/AkshitBisht02
+GitHub: https://github.com/soyamrajkathait
 ⭐ Show Your Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
